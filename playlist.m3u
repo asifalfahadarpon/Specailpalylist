@@ -1,7 +1,30 @@
 #EXTM3U
-#EXTINF:-1,Channel Name 1
-https://example.com/stream-link-1.m3u8
+#EXTINF:-1, T SPORTS FHD (50 FPS)
+http://172.16.29.34/ontest1/ontest1/579
 
-#EXTINF:-1,Channel Name 2
-https://example.com/stream-link-2.m3u8
+#EXTINF:-2, SKY SPORTS CRICKET FHD (50 FPS)
+http://172.16.29.34/ontest1/ontest1/603
+
+#EXTINF:-3, WILLOW SPORTS 2
+http://172.16.29.34/ontest1/ontest1/602
+
+
+#EXTINF:-4, TNT SPORTS 1
+http://172.16.29.34/ontest1/ontest1/593
+
+EXTINF:-5, TNT SPORTS 2
+http://172.16.29.34/ontest1/ontest1/594
+
+
+EXTINF:-6, TNT SPORTS 3 
+http://172.16.29.34/ontest1/ontest1/595
+
+
+EXTINF:-7, TNT SPORTS 4
+http://172.16.29.34/ontest1/ontest1/596
+
+
+
+
+
 
